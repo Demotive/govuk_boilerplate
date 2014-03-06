@@ -1,7 +1,7 @@
 govuk_boilerplate
 =================
 
-Basic boilerplate for quick gov.uk prototyping:
+Basic boilerplate for quick prototyping:
 
 ![screengrab](http://demotive.github.io/z-screengrabs/PROTOTYPE.png)
 
