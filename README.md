@@ -7,7 +7,7 @@ Basic boilerplate for quick prototyping:
 
 * Jekyll
 * Jekyll Sass
-* govuk_frontend_toolkit submodule (liquid version)
-* govuk_template
+* govuk_frontend_toolkit submodule
+* govuk_template (liquid version)
 * jQuery
 * jQuery UI (for Nomensa video player within frontend_tookit)
