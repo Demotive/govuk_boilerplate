@@ -2,6 +2,10 @@
 ##########
 _site/
 
+# Scss #
+########
+.sass-cache
+
 # Compiled source #
 ###################
 *.com
