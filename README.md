@@ -3,7 +3,7 @@ govuk_boilerplate
 
 Basic boilerplate for quick gov.uk prototyping:
 
-![screengrab](https://demotive.github.com/repository/z-screengrabs/PROTOTYPE.png)
+![screengrab](http://demotive.github.io/z-screengrabs/PROTOTYPE.png)
 
 * Jekyll
 * Jekyll Sass
