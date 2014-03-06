@@ -1,0 +1,26 @@
+# Native
+name: Transformation Dashboard
+markdown: redcarpet
+pygments: false
+
+redcarpet:
+  extensions: [
+    smart
+  ]
+
+permalink: :title.html
+
+exclude: [
+    Procfile,
+    Gemfile,
+    Gemfile.lock,
+    README.md,
+    LICENSE,
+    LICENCE
+]
+
+destination: _site
+baseurl: /
+
+# govuk_template variables
+govuk_template_assets: /assets
