@@ -1,0 +1,21 @@
+@import 'assets/govuk_frontend_toolkit/stylesheets/colours';
+@import 'assets/govuk_frontend_toolkit/stylesheets/typography';
+@import 'assets/govuk_frontend_toolkit/stylesheets/measurements';
+@import 'assets/govuk_frontend_toolkit/stylesheets/css3';
+@import 'assets/govuk_frontend_toolkit/stylesheets/conditionals';
+
+// based on Whitehall - dept colours and logos
+@import 'departments';
+
+// match www.gov.uk footer links (_footer_top.html)
+@import 'alphagov-static-footer';
+
+// govuk_toolkit - media player styles
+@import 'assets/govuk_frontend_toolkit/stylesheets/design-patterns/media-player.scss';
+
+// Main central container element (main element must be unique in the page):
+main {
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 1em 0;
+}
