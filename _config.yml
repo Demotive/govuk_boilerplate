@@ -16,7 +16,8 @@ exclude: [
     Gemfile.lock,
     README.md,
     LICENSE,
-    LICENCE
+    LICENCE,
+    vendor
 ]
 
 destination: _site
